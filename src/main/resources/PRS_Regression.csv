@@ -1,0 +1,18 @@
+transaction_type,function_name,description,sum(record_count),transaction,company_id,PP-19,PP-23,PP-24,PP-28,PP-29,PP-35,PP-36,PP-48,PP-49
+I,RollPerSearch ,Advanced Person Search (Rollup)-27,47358,16432997R1,1028469,$1.50 ,$2.16 ,$5.68 ,$2.20 ,$6.04 ,$2.45 ,$7.52 ,$2.92 ,$8.35 
+I,RollPerSearch   ,Advanced Person Search (Rollup)-31,47358,16434677R9,1006061,$1.50 ,$2.16 ,$5.68 ,$2.20 ,$6.04 ,$2.45 ,$7.52 ,$2.92 ,$8.35 
+I,CompReport      ,Flat Rate Comprehensive Report,22995,16448387R35352,1006061,$8.50 ,$11.90 ,$16.22 ,$12.00 ,$17.25 ,$13.35 ,$21.47 ,$15.90 ,$23.80 
+I,NSrelatives     ,Next Steps - Relatives Search,15443,16426057R1119,1006061,$1.55 ,$0.00 ,$0.00 ,$2.27 ,$5.92 ,$2.52 ,$0.00 ,$0.00 ,$8.24 
+I,RNASearch       ,Next Steps - Relatives/Neighbors/Associates Search,6311,16431427R12,1006061,$3.09 ,$0.00 ,$0.00 ,$4.53 ,$9.48 ,$5.71 ,$0.00 ,$0.00 ,$13.08 
+I,TopBizSearch    ,Business Search.,6195,16426197R1119,1006061,$1.00 ,$1.63 ,$4.33 ,$1.65 ,$4.60 ,$1.85 ,$5.73 ,$2.22 ,$6.35 
+I,DirAsstWireless ,Phones Plus Search,5798,16429557R651,1006061,$0.77 ,$0.00 ,$0.00 ,$1.13 ,$3.55 ,$1.30 ,$0.00 ,$0.00 ,$4.94 
+I,PeopleAtWorkV2  ,People at Work Search,5187,16431427R68,1006061,$1.50 ,$2.16 ,$5.41 ,$2.20 ,$5.75 ,$2.45 ,$7.19 ,$2.92 ,$8.00 
+I,personsrchplus  ,Person Search Plus,5038,16431487R51,1006061,$0.00 ,$1.63 ,$4.33 ,$0.00 ,$0.00 ,$0.00 ,$5.73 ,$2.44 ,$0.00 
+I,MVSearch2       ,Motor Vehicle Search,5031,16426157R1138,1006061,$1.00 ,$1.63 ,$3.79 ,$1.65 ,$4.03 ,$1.85 ,$4.65 ,$2.22 ,$5.60 
+I,DeathSearch     ,Death Record Search,4783,16429557R417,1006061,$1.00 ,$1.63 ,$4.33 ,$1.65 ,$4.60 ,$1.85 ,$5.73 ,$2.22 ,$6.35 
+I,CrimSearch      ,Criminal Search,3910,16426057R1105,1006061,$1.50 ,$2.16 ,$5.41 ,$2.20 ,$5.75 ,$2.45 ,$7.19 ,$2.92 ,$8.00 
+I,AssetReport     ,Asset Report,3070,16427687R168,1006061,$3.50 ,$5.41 ,$9.73 ,$5.50 ,$10.35 ,$6.05 ,$12.87 ,$7.19 ,$14.30 
+I,ContactCardRpt  ,Contact Card Report _ ,2725,16431487R137,1006061,$5.00 ,$7.57 ,$12.98 ,$7.70 ,$13.80 ,$8.50 ,$17.20 ,$10.11 ,$19.10 
+I,finderreport    ,Finder Report,1907,16442997R520,1006061,$3.50 ,$5.41 ,$9.73 ,$5.50 ,$10.35 ,$6.05 ,$12.87 ,$7.19 ,$14.30 
+I,SummaryReport   ,Summary Report,1787,16431487R119,1006061,$2.50 ,$3.79 ,$8.65 ,$3.85 ,$9.20 ,$4.25 ,$10.60 ,$5.08 ,$12.70 
+I,prelitreport    ,Pre-Litigation Report,1750,16442257R162,1028469,$4.75 ,$7.04 ,$10.82 ,$7.15 ,$11.50 ,$7.90 ,$14.33 ,$9.41 ,$15.90 

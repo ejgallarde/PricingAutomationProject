@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<parameter name="usePipeline" value="No" />
+		<parameter name="jiraNumber" value="Plan ID 2" />
+		<parameter name="jiraInfo" value="PROPERTYSEARCH2" />
+		<parameter name="environment" value="DEV" />
+		<parameter name="fcraValue" value="non-fcra" />
+		<parameter name="indexPosition" value="0" />
+
+		<classes>
+			<class name="com.lexisnexis.web.pricing.tests.PricingTest"></class>
+		</classes>
+	</test>
+
+	<!-- <test name="Regression">
+		<classes>
+			<class name="com.lexisnexis.web.pricing.tests.RegressionTest" />
+		</classes>
+	</test> -->
+</suite>

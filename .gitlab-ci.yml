@@ -1,0 +1,61 @@
+image: 'maven:latest'
+
+stages:
+
+    - build
+
+    - test
+
+build:
+
+    tags:
+
+        - smoke
+
+    stage: build
+
+    script:
+
+        - 'mvn compile'
+
+    only:
+
+        - master
+
+test:
+
+    tags:
+
+        - smoke
+
+    stage: test
+
+    script:
+
+        - 'mvn clean test -D TestSuiteXML=$TestSuite'
+
+    retry:
+
+        max: 2
+
+        when:
+
+            - runner_system_failure
+
+            - stuck_or_timeout_failure
+
+    artifacts:
+
+        when: always
+
+        paths:
+
+            - logs
+
+            - test-results
+
+        expire_in: '10 days'
+
+    only:
+
+        - master

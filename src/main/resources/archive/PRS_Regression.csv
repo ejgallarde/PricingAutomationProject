@@ -1,0 +1,7 @@
+transaction_type,function_name,description,sum(record_count),transaction,company_id,PP-19,PP-23,PP-24,PP-28
+I,RollPerSearch ,Advanced Person Search (Rollup)-27,47358,16432997R1,1028469,$1.50 ,$2.00 ,$5.25 ,$2.20 
+I,RollPerSearch   ,Advanced Person Search (Rollup)-31,47358,16434677R9,1006061,$1.50 ,$2.00 ,$5.25 ,$2.20 
+I,CompReport      ,Flat Rate Comprehensive Report,22995,16448387R35352,1006061,$8.50 ,$11.00 ,$15.00 ,$12.00 
+I,NSrelatives     ,Next Steps - Relatives Search,15443,16426057R1119,1006061,$1.55 ,$2.06 ,$5.15 ,$2.27 
+I,RNASearch       ,Next Steps - Relatives/Neighbors/Associates Search,6311,16431427R12,1006061,$3.09 ,$4.12 ,$8.24 ,$4.53 
+I,TopBizSearch    ,Business Search.,6195,16426197R1119,1006061,$1.00 ,$1.50 ,$4.00 ,$1.65 
